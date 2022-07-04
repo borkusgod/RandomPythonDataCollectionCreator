@@ -1,0 +1,1 @@
+<h1>This program was written under LGPL</h1>
