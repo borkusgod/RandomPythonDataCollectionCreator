@@ -136,23 +136,6 @@ class RandomChararcterGenerator:
                              for i in range(self.num_char))
         print(result_str)
         return result_str
-    # def num_iteration(self):
-    #     print(self.num_times)
-    #     for each_time in range(int(self.num_times)):
-    #         each_time = self.just_uppers()
-    #         print(each_time)
-    #     return each_time
-# def print_out(self):
-#     print(f'How many chars and type of int: {type(self.num_char)}: '
-#           f'{self.num_char}\n'
-#           f'What type of combo and type of var: '
-#           f'{type(self.which_kind)}: {self.which_kind}\n'
-#           f'How many iterations of collection and type of var: '
-#           f'{type(self.iter_num)} {self.iter_num}\n'
-#           f'What type of collections and type of var: '
-#           f'{type(self.iter_type)} {self.iter_type}\n')
-#     # print(self.num_char, self.mix_of_chars, self.num_times, self.which_kind)
-# print func for testing
 
 
 input_char = input('How many characters long? ')
